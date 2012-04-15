@@ -1,0 +1,9 @@
+name: CompleteVillagerControl
+main: com.gmail.gatz85.CVC.CVC
+version: 0.03
+commands:
+    cvc:
+        description: This is My first test!
+        usage: /cvc [CMD] 
+        permission: cvc.erica
+        permission-message: You can't Do that
